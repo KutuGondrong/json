@@ -1,3 +1,3 @@
 # json
 
-Library to post and get json
+Library for post and get json
